@@ -37,6 +37,10 @@ body {
 .footer{
     grid-area: footer;
 }
+/*fos*/
+.footer{
+    grid-area: footer;
+}
 
 
 
